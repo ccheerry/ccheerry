@@ -21,10 +21,7 @@ Busy with personal jobs and rust addiction.
   
 ```diff
 Cherry🍒#9876
-
-
-      
-    ```
+```
     
     
     
