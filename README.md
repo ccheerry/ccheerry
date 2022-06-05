@@ -1,7 +1,7 @@
 <h3 align = 'center'>Welcome to CherryozZ profile</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Newbie-programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Newbie%20programmer" />
 </p>
 
 <hr>
@@ -22,6 +22,13 @@ Busy with personal jobs and rust addiction.
 ```diff
 Cherry🍒#9876
 ```
+    ```diff
+      <p align="center">
+    <a href="https://discord.com/users/943374631644045363">
+        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
+    </a>
+</p>
+    ```
     
     
     
