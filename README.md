@@ -23,11 +23,7 @@ Busy with personal jobs and rust addiction.
 Cherry🍒#9876
 
 
-      <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
-        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
-    </a>
-</p>
+      
     ```
     
     
