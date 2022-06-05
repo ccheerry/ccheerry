@@ -5,7 +5,7 @@
 </p>
 
 <hr>
-<img align="left" height="250" src="https://cdn.discordapp.com/avatars/853053930342580224/f31edffa70d083e2d9e346833458e7dc.png?size=1024"/>
+
 
 ```diff
 About me:
@@ -20,9 +20,8 @@ Busy with personal jobs and rust addiction.
   <div>
   
 ```diff
-Discord Profile
+Cherry🍒#9876
 ```
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853053930342580224)](https://discord.com/users/853053930342580224)
     
     
     
