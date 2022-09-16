@@ -11,7 +11,7 @@
 About me:
 
 Learning C# and JS,
-Busy with personal jobs and rust addiction.
+Busy with personal jobs and studies.
 
 
 ```
