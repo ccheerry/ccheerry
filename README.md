@@ -1,7 +1,7 @@
-<h3 align = 'center'>Welcome to CherryozZ profile</h3>
+<h3 align = 'center'>Welcome to my profile</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Newbie%20programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Junior%20back-end%20developer" />
 </p>
 
 <hr>
