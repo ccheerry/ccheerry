@@ -31,8 +31,8 @@ Cherry🍒#9876
 
 ### My Git Stats !
 
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=CherryozZ&show_icons=true&theme=tokyonight&hide=["issues"])
+![Snowflake107](https://github-readme-stats.vercel.app/api?username=ccheerry&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=CherryozZ&show_icons=true&theme=tokyonight&layout=compact)
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=ccheerry&show_icons=true&theme=tokyonight&layout=compact)
     
 <hr>
