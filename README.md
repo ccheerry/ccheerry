@@ -11,8 +11,8 @@
 About me:
 
 Learning C# and JS,
-Busy with personal jobs and studies.
 
+Mostly dedicated to Server Development under the Cfx.re platform
 
 ```
 
