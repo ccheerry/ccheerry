@@ -20,7 +20,7 @@ Busy with personal jobs and studies.
   <div>
   
 ```diff
-Cherry🍒#9876
+Discord: ccherryy_
 ```
     
     
