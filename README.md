@@ -1,38 +1,16 @@
-<h3 align = 'center'>Welcome to my profile</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Junior%20back-end%20developer" />
-</p>
+# 💫 About Me:
+<br>🤓 Tech enthuasist<br>📍 Madrid, Spain<br>💻 Focused on back-end development<br>🛠️ Mainly working and contributing on Cfx.re projects<br>🧰 You can see my public work here [https://github.com/ccheerry?tab=repositories]<br><br>🚧 My current public projects:<br><br>➡️ SpainCity [https://discord.gg/spaincity]<br>➡️ Exotic Academy [https://discord.gg/exoticacademy]
 
-<hr>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discord.com/users/853053930342580224) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ccheerryy_) 
 
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ccheerry&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ccheerry&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccheerry&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-```diff
-About me:
-
-Learning C# and JS,
-
-Mostly dedicated to Server Development under the Cfx.re platform
-
-```
-
-<div>
-  <div>
-  
-```diff
-Discord: ccherryy_
-```
-    
-    
-    
-<hr>
-    
-
-
-### My Git Stats !
-
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=ccheerry&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=ccheerry&show_icons=true&theme=tokyonight&layout=compact)
-    
-<hr>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/cherryozz?country.x=ES&locale.x=es_ES) 
