@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>🤓 Tech enthusiast<br>📍 Madrid, Spain<br>💻 Focused on back-end development<br>🛠️ Mainly working and contributing on Cfx.re projects<br>🧰 You can see my public work here [https://github.com/ccheerry?tab=repositories]<br><br>🚧 My current public projects:<br><br>➡️ SpainCity [https://discord.gg/spaincity]<br>➡️ Exotic Academy [https://discord.gg/exoticacademy]
+<br>🤓 Tech enthusiast<br>📍 Madrid, Spain<br>💻 Focused on back-end development<br>🛠️ Mainly working and contributing on Cfx.re projects<br>🧰 You can see my public work here [https://github.com/ccheerry?tab=repositories]<br><br>🚧 My current public projects:<br><br>➡️ SpainCity [https://discord.gg/spaincity]<br>➡️ Exotic Academy [https://discord.gg/exoticacademy]<br>➡️ TMHRZ [https://discord.gg/tmhrz]
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/853053930342580224) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ccheerryy_) 
