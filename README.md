@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>🤓 Tech enthusiast<br>📍 Madrid, Spain<br>📚 Software Engineering student at the Polytechnic University of Madrid (UPM)<br>🧑‍🎓 42 Madrid student, upgrading all kind skills<br>💻 Focused on back-end development<br>🛠️ Mainly working and contributing on Cfx.re projects<br>🧰 You can see my public work here [https://github.com/ccheerry?tab=repositories]<br><br>🚧 My current public projects:<br><br>➡️ SpainCity [https://discord.gg/spaincity]<br>➡️ Exotic Academy [https://discord.gg/exoticacademy]<br>➡️ TMHRZ [https://discord.gg/tmhrz] <br>➡️ TMHRP [https://discord.gg/tmhrp]
+<br>🤓 Tech enthusiast<br>📍 Madrid, Spain<br>📚 Software Engineering student at the Polytechnic University of Madrid (UPM)<br>🧑‍🎓 Currently studying at 42 Madrid, upgrading all kind of skills<br>💻 Focused on back-end development<br>🛠️ Mainly working and contributing on Cfx.re projects<br>🧰 You can see my public work here [https://github.com/ccheerry?tab=repositories]<br><br>🚧 My current public projects:<br><br>➡️ SpainCity [https://discord.gg/spaincity]<br>➡️ Exotic Academy [https://discord.gg/exoticacademy]<br>➡️ TMHRZ [https://discord.gg/tmhrz] <br>➡️ TMHRP [https://discord.gg/tmhrp]
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/853053930342580224)
